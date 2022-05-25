@@ -1,0 +1,23 @@
+{
+  "name": "rb-voc-xml-creator",
+  "version": "0.0.1",
+  "description": "Creates voc xml through rest api",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "voc",
+    "xml",
+    "rest",
+    "api"
+  ],
+  "author": "dzhusi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "xmlbuilder": "^15.1.1"
+  }
+}
